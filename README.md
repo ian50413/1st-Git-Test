@@ -1,6 +1,6 @@
 # 1st-Git-Test
 ##JaCKyHuAngFuCKYou
-1. a
-2. b
-3. c
-4. 
+1. 3
+2. 連
+4. 發
+5. 讚
